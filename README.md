@@ -1,27 +1,85 @@
 # JavascriptJeopardyApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+## Angular
 
-## Development server
+Who is known for saying the term bee's knees?
+What is Misko Hevery, creator of Angular
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+How do you comfort a JavaScript bug?
+You console it.
 
-## Code scaffolding
+Why do functions always break up?
+Because they have constant arguments.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+This file hold various metadata relevant to the javascript project we are working on
+What is package.json?
 
-## Build
+Need to get data from a web API? This javascript standard-lib function is a great alternative to using XMHttpRequest in the browser.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+What is fetch?
 
-## Running unit tests
+Unlike var, this javascript keyword let’s you define a variable that can be modified and respects current block scope.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+What is let?
 
-## Running end-to-end tests
+Unlike let, this javascript keyword lets you define a variable that is block-stopped but cannot be modified
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+What is const?
 
-## Further help
+Put down the coffee, this javascript testing framework released by facebook promises “painless javascript testing”
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+What is jest?
+
+This code formatter is used by many javascript developers to automatically generate consistent and more readable js code
+
+What is prettier?
+
+V8 is…
+
+A vegetable/fruit juice
+A vehicle engine with 8 cylinders
+Chrome’s JavaScript engine
+
+JavaScript (the language) was originally designed by
+
+Douglas Crockford
+Jeff Cross’ Beard
+Brendan Eich
+Yehuda Katz
+
+What is the result of using the typeof operator on an array? typeof [1, 2, 3]
+
+“array”
+“object”
+“[object Array]”
+“#YOLO”
+
+What is "object"?
+
+What is the logged value of `foo`?
+
+var foo = 1;
+if (false) {
+  var foo = 2;
+} else {
+  var foo = 3;
+}
+
+console.log(foo);
+// ???
+
+3. `var` does not use block scope.
+
+In JavaScript, if you add 0.1 + 0.2 the result is:
+
+•0.3
+•0.30000000000000004
+•0.40000000000000004
+•0.4
+
+0.30000000000000004. Storing of floats is done in binary, which results in rounding errors. This actually isn’t unique to JavaScript.
+
+
+
+
+
